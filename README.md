@@ -59,7 +59,6 @@ Implement tests to validate the website's security, such as checking for proper 
 
 3. Does the profile page have non-functional properties? How would you test these properties?
 Non-functional properties of the profile page may include performance, usability, accessibility, security, and compatibility.
-
 To test these properties, specific test scenarios can be designed:
 Performance: Measure the page load time, response time, and server resource utilization under different user loads using tools like JMeter or Selenium Grid.
 Usability: Conduct usability testing with real users to evaluate the ease of navigation, intuitiveness, and overall user experience of the profile page.
